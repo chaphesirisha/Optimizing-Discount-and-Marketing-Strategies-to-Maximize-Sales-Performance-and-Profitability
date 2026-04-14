@@ -1,4 +1,4 @@
-<img width="1729" height="70" alt="image" src="https://github.com/user-attachments/assets/a56cc304-0763-4ec0-b347-dbff4fba875f" />AICW  FELLOWSHIP PROJECT
+AICW  FELLOWSHIP PROJECT
 # Optimizing-Discount-and-Marketing-Strategies-to-Maximize-Sales-Performance-and-Profitability
 About project:Optimizing Discount and Marketing Strategies to Maximize Sales Performance and Profitability is a Power BI project that analyzes the impact of discounts and marketing strategies on sales and profit. It includes data cleaning, interactive dashboards, and insights to support effective business decision-making.
 ## Project Links
